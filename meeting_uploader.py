@@ -32,7 +32,7 @@ NOMBRE_HOJA_DESTINO = "Expedientes"
 
 # Índices de columnas (0-indexed)
 COL_ID_IDX = 0        # Columna A (ID)
-COL_COMENTARIO_IDX = 14 # Columna O (Comentario de reunión)
+COL_COMENTARIO_IDX = 13 # Columna N (Comentario de reunión)
 
 def inicializar_driver():
     """Configura Chrome en modo headless para GitHub Actions."""
