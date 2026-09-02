@@ -1,4 +1,4 @@
-selenium
-webdriver-manager
 gspread
 google-auth
+requests
+python-dotenv
